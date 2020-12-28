@@ -10,7 +10,7 @@ This library can be used to easily get user records, connections between users, 
 
 ## Installation
 
-The source code is currently hosted on Github at https://github.com/anjuchamantha/cellyzer---CDR-data-analyzer. 
+The source code is currently hosted on Github at https://github.com/v4toxic/toxyzer.git. 
 
 Binary installers for the latest released version are available at the Python package index:
 
@@ -65,5 +65,5 @@ SOFTWARE.
 
 ## Documentation
 
-The official documentation is hosted on https://anjuchamantha.github.io/cellyzer---CDR-data-analyzer/. It includes a demo, a detailed reference for all functions, and guides on how to use **CELLYZER**. 
+The official documentation is hosted on https://github.com/v4toxic/toxyzer.git. It includes a demo, a detailed reference for all functions, and guides on how to use **TOXYZER**. 
 
